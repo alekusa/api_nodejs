@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 const StorageSchema = new mongoose.Schema(
     {
         url:{
-            type:string
+            type:String
         },
         filename:{
             type:String

@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 const TracksScheme = new mongoose.Schema(
     {
         name:{
-            type:string
+            type:String
         },
         album:{
             type:String
