@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-//mongodb+srv://alekusa:oxEk202BzyrUM1pG@cluster0.ro0jxoi.mongodb.net/?retryWrites=true&w=majority
+
 const dbConnect = () => {
     const DB_URI = process.env.DB_URI;
     mongoose.connect(
