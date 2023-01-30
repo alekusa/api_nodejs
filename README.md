@@ -2,4 +2,4 @@
 api rest en nodejs, express, mongodb
 Pruevas con draw
 
-![Screenshot](Added Untitled Diagram.drawio.png)
+![Screenshot](db.png)
