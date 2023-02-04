@@ -2,4 +2,4 @@
 Api rest en nodejs, express, mongodb
 
 Diseño de la base de datos
-![Screenshot](db.png)
+// ![Screenshot](db.png)
